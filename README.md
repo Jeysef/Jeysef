@@ -10,3 +10,4 @@
 - TypeScript
 
 I like to learn new things and study.
+email: josimich7@gmail.com 
