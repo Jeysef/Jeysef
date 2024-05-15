@@ -1,13 +1,4 @@
 # 👋 Hi, I’m @Jeysef
-- I’m a student interested in programming.
-## I work with 
-- React
-- CSS
-- less
-- Html
-- Python
-- JavaScript
-- TypeScript
+I create web apps in [Next.js](https://nextjs.org) using [TypeScript](https://www.typescriptlang.org)
 
-I like to learn new things and study.
-email: josimich7@gmail.com 
+I am a student, but have work experience. I am focused on modern, sleek, and responsive web design.
